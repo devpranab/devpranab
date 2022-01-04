@@ -1,6 +1,6 @@
 <h1 align="center">I'm Pranab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/></h1>
 
-<a href="#"><img width="100%" src="https://scontent.frdp2-1.fna.fbcdn.net/v/t1.6435-9/s1080x2048/40980449_315888512555999_5729534120015429632_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_ohc=M5UXFXNcqYEAX_drje_&_nc_ht=scontent.frdp2-1.fna&oh=00_AT-8B5dFTo_bqri_K--rmkNAiUN2OTQO6uC3ewBrqwRXYw&oe=61E90365" height="400px"  width="500px"/>
+<a href="#"><img width="100%" src="https://scontent.frdp3-1.fna.fbcdn.net/v/t1.6435-9/33593094_205704520241066_2527739187436716032_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_ohc=JfcMzjeauTEAX_McBv2&_nc_ht=scontent.frdp3-1.fna&oh=00_AT_ENO2dmEA2roLAGGDa7uPe6d616Fi63MZnJYhdbTT9ww&oe=61F8252C"/>
 </a>
 ### 📖 About me
 
