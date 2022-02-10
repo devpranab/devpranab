@@ -4,7 +4,7 @@
 </a>
 ### 📖 About me
 
-I am a Full-Stack WEB Developer. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I am updated person, so always ready to accomplish any task by working hard. Now i am working mainly on MERN Stack. My goal is to be best programmer with do something in technology.
+I am a Full-Stack WEB Developer. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. Now i am working mainly on MERN Stack. My goal is to be best programmer with do something in technology.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpranab&label=Profile%20views&color=0e75b6&style=flat" alt="devpranab" /> </p>
 
