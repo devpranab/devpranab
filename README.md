@@ -10,7 +10,7 @@ I am a Full-Stack WEB Developer. I believe in hard work and efficiency. That's w
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devpranab" alt="devpranab" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **MERN STACK & DSA with JavaScript**
 
 - 💬 Ask me about **Web Development**
 
