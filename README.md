@@ -2,6 +2,8 @@
 
 <a href="#"><img width="https://scontent.frdp2-1.fna.fbcdn.net/v/t1.6435-9/41700978_323942231750627_4154547897217581056_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_ohc=-m1L748iRpIAX-ZvuTN&_nc_ht=scontent.frdp2-1.fna&oh=00_AT_n8-RqexbOvyeJjpFbG0BP8EsyjdrpGwsM_YwZCqvb7g&oe=61F7F6BF"/>
 </a>
+<h2 align="center">Hey there, I'm Pranab Sarkar</h2>
+
 ### 📖 About me
 <h3 align="center">Passionate in programming</h3>
 <p align="center"> 
