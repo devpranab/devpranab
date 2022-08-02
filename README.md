@@ -2,8 +2,7 @@
 
 <a href="#"><img width="https://scontent.frdp2-1.fna.fbcdn.net/v/t1.6435-9/41700978_323942231750627_4154547897217581056_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_ohc=-m1L748iRpIAX-ZvuTN&_nc_ht=scontent.frdp2-1.fna&oh=00_AT_n8-RqexbOvyeJjpFbG0BP8EsyjdrpGwsM_YwZCqvb7g&oe=61F7F6BF"/>
 </a>
-<h1 align="center">Hey there, I'm Pranab Sarkar</h1>
-<h3 align="center">Passionate in programming</h3>
+<h2 align="center">Hey there! I'am Pranab Sarkar, a passionate programmer</h2>
 <p align="center"> 
 <img align="center" src="https://img.shields.io/badge/In%20all%20github%20repositories%20I%20have%20written-8372%20lines%20of%20code-blue">
 
