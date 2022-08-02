@@ -3,6 +3,9 @@
 <a href="#"><img width="https://scontent.frdp2-1.fna.fbcdn.net/v/t1.6435-9/41700978_323942231750627_4154547897217581056_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_ohc=-m1L748iRpIAX-ZvuTN&_nc_ht=scontent.frdp2-1.fna&oh=00_AT_n8-RqexbOvyeJjpFbG0BP8EsyjdrpGwsM_YwZCqvb7g&oe=61F7F6BF"/>
 </a>
 ### 📖 About me
+<h3 align="center">Passionate in programming</h3>
+<p align="center"> 
+<img align="center" src="https://img.shields.io/badge/In%20all%20github%20repositories%20I%20have%20written-8372%20lines%20of%20code-blue">
 
 I am a Full-Stack WEB Developer. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. Now i am working mainly on MERN Stack. My goal is to be best programmer with do something in technology.
 
