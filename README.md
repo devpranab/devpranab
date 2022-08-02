@@ -4,7 +4,6 @@
 </a>
 <h2 align="center">Hey there, I'm Pranab Sarkar</h2>
 
-### 📖 About me
 <h3 align="center">Passionate in programming</h3>
 <p align="center"> 
 <img align="center" src="https://img.shields.io/badge/In%20all%20github%20repositories%20I%20have%20written-8372%20lines%20of%20code-blue">
