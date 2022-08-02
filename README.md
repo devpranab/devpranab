@@ -26,6 +26,7 @@ I am a Full-Stack WEB Developer. I believe in hard work and efficiency. That's w
   <a href="https://stackoverflow.com/users/user:17005118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:17005118" height="30" width="40" /></a>
 <a href="https://instagram.com/pranabsarkarinsta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranabsarkarinsta" height="30" width="40" /></a>
  <a href="https://www.hackerearth.com/@dev_pranabsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dev_pranabsk" height="30" width="40" /></a>
+  <a href="https://www.hackerearth.com/@dev_pranabsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/npm.svg" alt="@dev_pranabsk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
